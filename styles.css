@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+table {
+    width: 50%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    background-color: aquamarine;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+#search-bar{
+    height: 50px;
+    width: 300px;
+}
